@@ -1,0 +1,7 @@
+name: RainsJoinMessages-V2 # the plugins name as it should appear in the plugin list /pl
+version: 0.1-PRE # the plugin's version
+author: Raindropz # the author's name
+main: me.raindropz.rjm.RainsJoinMessages # your main class were the onEnable and onDisable methods are.
+api-version: 1.16 # the version of the API you want to use, required starting with 1.13
+
+softdepend: [PlaceholderAPI] # This is used, if your plugin works without PlaceholderAPI.
